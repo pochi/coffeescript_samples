@@ -11,3 +11,5 @@ class Dog extends Animal
     console.log "Bowbow: #{word}"
 
 new Animal("pochi").say("bowbow")
+
+new Dog("pochi").say("bowbow")
